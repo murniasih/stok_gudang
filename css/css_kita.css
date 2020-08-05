@@ -1,0 +1,6 @@
+header{background:#111; padding:100px;}
+.header {background:#333;
+		height:100px;}
+a.judul{font-size:100%; color:#ccc;}
+.content{background:#ddd; min-height:400px; padding:10px;}
+.footer{background:#333; padding:10px; color:#ccc;}
